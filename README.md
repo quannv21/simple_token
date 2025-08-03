@@ -199,18 +199,4 @@ clarinet test
 - [ ] Multi-signature support
 - [ ] Governance features
 
-## 📞 Support
 
-For questions or issues:
-1. Check the [Stacks documentation](https://docs.stacks.co/)
-2. Review [Clarinet documentation](https://github.com/hirosystems/clarinet)
-3. Join the [Stacks Discord](https://discord.gg/stacks)
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
----
-
-**Built for Stacks Hackathon** 🚀
-*Demonstrating the power of Clarity smart contracts and React integration*
