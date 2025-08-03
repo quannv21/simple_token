@@ -1,0 +1,14 @@
+{
+  "name": "simple-token-project",
+  "version": "1.0.0",
+  "description": "Simple token contract with React frontend",
+  "scripts": {
+    "test": "clarinet test",
+    "check": "clarinet check",
+    "dev": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "install-frontend": "cd frontend && npm install"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}

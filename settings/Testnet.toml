@@ -1,0 +1,8 @@
+[network]
+name = "testnet"
+node_rpc_address = "https://stacks-node-api.testnet.stacks.co"
+deployment_fee_rate = 10
+
+[accounts.deployer]
+mnemonic = "crater book debris segment amateur decrease corn rice chaos fall blood blouse taxi sheriff unknown air maid tank case front mass wood invest reflect"
+# Your testnet address: ST6K43RGM0M693W7SDGKFG1VNZKY7EHDVZVJ57EZ
